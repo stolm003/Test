@@ -1,0 +1,32 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.13 (C:\ProgramData\Anaconda2\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="C:\ProgramData\Anaconda2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/DLLs" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/lib-tk" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/site-packages" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/site-packages/Sphinx-1.5.1-py2.7.egg" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/ProgramData/Anaconda2/Lib/site-packages/pythonwin" />
+            <root type="simple" url="jar://C:/ProgramData/Anaconda2/Lib/site-packages/setuptools-27.2.0-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharmCE2016.3/system/python_stubs/-442534463" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
