@@ -1,0 +1,24 @@
+git init //this initiates git
+git clone https://github.com/stolm003/FileSharingSystem.git //clones git
+git add <filename> //proposes to local git
+git commit -m "Commit message" // commits to head of local repo
+git push origin master //send to remote repo change master to change branch
+git remote add origin <server>
+
+//branching
+git checkout -b feature_x //create branh and switch to it
+git checkout master //switch to master
+git checkout -d feature_x //to delete
+git push origin <branch> //push so that other can see branch
+git pull //to update
+git merge <branch> // merges branch but must change differences on own
+git add <filename> to show that its merged and add again
+
+//hard reset
+git fetch origin
+git reset --hard origin/master
+
+
+
+
+
